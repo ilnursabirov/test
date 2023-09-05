@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main (String [] args) {
 
-		System.out.println("Hello ITIS");
+		System.out.println("Hello ITIS (privet)");
 
 	}
 }
